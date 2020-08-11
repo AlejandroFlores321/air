@@ -1309,11 +1309,11 @@
             ".testimonial-text": {
               "font-style": "italic",
               "font-weight": "300",
-              "color": "#333333"
+              "color": "#232323"
             },
             ".mbr-author-name": {
               "font-weight": "bold",
-              "color": "#333333"
+              "color": "#232323"
             },
             ".media-container-row": {
               "word-wrap": "break-word",
@@ -1330,7 +1330,7 @@
               }
             },
             ".mbr-author-desc": {
-              "color": "#333333"
+              "color": "#232323"
             }
           },
           "_name": "testimonials2",
